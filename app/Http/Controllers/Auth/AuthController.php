@@ -61,7 +61,7 @@ class AuthController extends Controller {
 	/**
 	 * Show the application login form.
 	 *
-	 * @Get("auth/login")
+	 * @Get("bruger/login")
 	 *
 	 * @return Response
 	 */
@@ -73,7 +73,7 @@ class AuthController extends Controller {
 	/**
 	 * Handle a login request to the application.
 	 *
-	 * @Post("auth/login")
+	 * @Post("bruger/login")
 	 *
 	 * @param  LoginRequest  $request
 	 * @return Response

@@ -10,4 +10,4 @@
         {!! Html::style('css/magnific-popup.css') !!}
 
         <!-- CSS Color Theme -->
-        {!! Html::style('css/colors/black.css') !!}
+        {!! Html::style('css/colors/brown.css') !!}

@@ -24,7 +24,6 @@
             @include('layouts.partials._footer')
         </div>
 
-
         <!-- Scripts -->
         @include('layouts.partials._scripts')
 
